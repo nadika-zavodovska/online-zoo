@@ -57,8 +57,7 @@
     margin-top: 100px;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
-    position: relative;
-    z-index: 2;
+    position: relative;   
     font-weight: 700;
     font-size: 106.496px;
     line-height: 75%;
@@ -71,6 +70,7 @@
     height: 425px;
     left: calc(50% - 465px/2 + 239.5px);
     top: 120px;
+    z-index: 2;
     border-radius: 50%;
     background: linear-gradient(113.96deg, #F9804B 1.49%, #FE9013 101.44%);
 }

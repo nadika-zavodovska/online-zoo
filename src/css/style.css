@@ -3,6 +3,8 @@
 .first-screen{
     background-image: url('../../images/Giant-Panda.jpg');
     padding-bottom: 70px;
+}
+.header-text-block {
     text-align: right;
 }
 .menu-background{
